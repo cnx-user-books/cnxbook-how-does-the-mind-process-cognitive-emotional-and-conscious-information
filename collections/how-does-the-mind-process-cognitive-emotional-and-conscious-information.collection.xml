@@ -1,29 +1,15 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mark Rozen Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11875</md:content-id>
-  <md:title>How Does the Mind Process Cognitive, Emotional and Conscious Information?</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>ebc8c398-3f52-49c3-bbea-bef5d5e67038</md:uuid>
-<md:slug>how-does-the-mind-process-cognitive-emotional-and-conscious-information</md:slug>
-</metadata>
-
+    <md:content-id>col11875</md:content-id>
+    <md:title>How Does the Mind Process Cognitive, Emotional and Conscious Information?</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>ebc8c398-3f52-49c3-bbea-bef5d5e67038</md:uuid>
+    <md:slug>how-does-the-mind-process-cognitive-emotional-and-conscious-information</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m57458"/>
-        
-      
-    
-    
-      <col:module document="m57699"/>
-        
-      
-    
+    <col:module document="m57458"/>
+    <col:module document="m57699"/>
   </col:content>
 </col:collection>
